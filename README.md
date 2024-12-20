@@ -19,9 +19,28 @@ A real-time Human Activity Recognition (HAR) system that uses webcam input and d
 
 ---
 
-## **Setup and Installation**  
+## **Usage**  
+- Launch the program by running the main script, and the webcam will activate automatically.  
+- The system will detect and classify human activities in real-time.  
+- Activities such as "walking," "running," or "dancing" will be displayed with a bounding box around the detected person and activity label.  
+- Quit the program anytime by pressing the `q` key.  
 
-### 1. **Clone the Repository**  
-```bash  
-git clone https://github.com/your-username/HAR-Project.git  
-cd HAR-Project  
+---
+
+## **Applications**  
+- 🏋️ **Fitness Monitoring**: Track workout activities and provide feedback for posture correction or performance improvement.  
+- ✋ **Gesture Control**: Enable hands-free interaction with devices by recognizing specific gestures or movements.  
+- 🔒 **Surveillance Systems**: Monitor predefined activities or detect anomalies for security and safety purposes.  
+- 🎓 **Educational Tools**: Teach and demonstrate physical exercises or movements interactively.  
+- 🤖 **Human-Robot Interaction**: Use activity recognition for controlling robots or smart devices based on detected actions.  
+
+---
+
+## **Acknowledgements**  
+- 🙏 **MediaPipe**: For providing robust pose tracking and face detection capabilities.  
+- 🙏 **TensorFlow**: For enabling seamless implementation of deep learning models.  
+- 🙏 **OpenCV**: For handling real-time video feed and interface design.  
+- 🙏 **NumPy**: For efficient numerical computations and data handling.  
+- 🙏 **Pillow**: For image processing and manipulation.  
+
+Special thanks to the open-source community for their valuable tools and contributions!  
